@@ -1,2 +1,3 @@
-name = str(Aya)
-print(name)
+def team_member(): 
+    name = 'Aya'
+    return name 

@@ -12,7 +12,7 @@ def solution_station2(date_str):
         'Thursday': '木曜日',
         'Friday': '金曜日',
         'Saturday': '土曜日',
-        'Sunday': '日曜日'
+        'Sunday': '日曜日 '
     }
     # Return the Japanese day name
     return solution_station2[day_of_week]
